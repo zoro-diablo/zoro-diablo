@@ -4,7 +4,6 @@
 - 💞️ CSS
 - ⌨️ HTML
 - 🔷 React
-- ✒️ CodePen Portfolio--->https://codepen.io/zoro-diablo
 - 🎨 Drawing Portfolio--->https://www.instagram.com/zoro.diablo/
 
 
