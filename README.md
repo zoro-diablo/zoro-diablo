@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Vyshnav.K
-- 👀 Front-End Developer , Artist ....
+- 👋 Hey there,
+- 👀 Artist
 - ❤️ Java Script
 - 💞️ CSS
 - ⌨️ HTML
