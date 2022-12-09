@@ -4,6 +4,6 @@
 - ☑ CSS
 - ☑ HTML
 - ☑ React
-- 🖼️ Drawing Portfolio---> https://www.instagram.com/zoro.diablo/
+- 🖼️ Drawings---> https://www.instagram.com/zoro.diablo/
 
 
