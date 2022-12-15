@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://www.horizont.com.hr/posao/frontend-developer.gif" alt="FRONTEND DEVELOPER"
+<img src="https://i.postimg.cc/50Myrfcn/My-project-1.png" alt="FRONTEND DEVELOPER"
 </p>
 <h1 align="center">Hi 👋, I'm Vyshnav</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
