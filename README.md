@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://i.postimg.cc/yNfG479Q/My-project-1-1.png" alt="FRONTEND DEVELOPER"
+<img src="https://i.postimg.cc/g22cHqvT/Black-Modern-Galaxy-Zoom-Virtual-Background.png" alt="REACT DEVELOPER"
 </p>
 <h1 align="center">Hi 👋, I'm Vyshnav</h1>
 <h3 align="center">A passionate Frontend Developer from India</h3>
