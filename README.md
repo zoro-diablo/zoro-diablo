@@ -2,14 +2,14 @@
 <img src="https://i.postimg.cc/g22cHqvT/Black-Modern-Galaxy-Zoom-Virtual-Background.png" alt="REACT DEVELOPER"
 </p>
 <h1 align="center">Hi 👋, I'm Vyshnav</h1>
-<h3 align="center">A passionate Frontend Developer from India</h3>
+<h3 align="center">A passionate REACT Developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://www.tekrevol.com/blogs/wp-content/uploads/2022/02/1.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zoro-diablo&label=Profile%20views&color=0e75b6&style=flat" alt="zoro-diablo" /> </p>
 
-- 🌱 I’m currently learning **MERN STACK**
+- 🌱 I’m currently learning **JAVA**
 
-- 💬 Ask me about **Front-End Designs**
+- 💬 Ask me about **REACT**
 
 - 📫 How to reach me **vyshnavk117@gmail.com**
 
