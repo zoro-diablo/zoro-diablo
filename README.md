@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zoro-diablo&label=Profile%20views&color=0e75b6&style=flat" alt="zoro-diablo" /> </p>
 
-- 🌱 I’m currently learning **MEAN STACK**
+- 🌱 I’m currently learning **MERN STACK**
 
 - 💬 Ask me about **REACT**
 
