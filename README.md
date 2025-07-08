@@ -21,12 +21,12 @@
 
 - Model fine-tuning: **LLMs (GPT, LLaMA, Mistral)** via **LoRA**, **QLoRA**, **PEFT**
 - **Self-hosted LLMs** using **Ollama**, **vLLM** for cost-effective inference
-- Expertise in **Prompt Engineering** & **Chain of Thought (CoT)**
+- Expertise in **Prompt Engineering** 
 - **RAG pipelines** with **LangChain**, **LangGraph**, hybrid semantic search
 - Deployed AI flows via **Transformers**, **OpenAI API**, **HuggingFace Endpoints**
 - **Agentic orchestration**, memory/tool integrations, and live tool routing
 - Vector search using **FAISS**, **Milvus**, **Zilliz**, **ChromaDB**
-- Experience with **NLP & CV**: Q&A bots, summarization, OCR, image classification
+- Experience with **NLP**: Q&A bots, summarization, OCR
 
 ---
 
@@ -68,17 +68,16 @@
 
 - Containerization: **Docker** for LLMs and full-stack apps
 - **VPS Ops**: NGINX, SSL, PM2, cronjobs, swap, and memory optimization
-- Deployment on **Render**, **Railway**, **Fly.io**, and custom **VPS**
+- Deployment on **Render**, **Railway**, and custom **VPS**
 - CI/CD: GitHub Actions, webhooks, and automated deployment pipelines
-- Edge AI: Deployments using **LM Studio**, **TGI**, **Ollama**, **Transformers**
+- Edge AI: Deployments using **LM Studio**, **Ollama**, **Transformers**
 
 ---
 
 ### 🎨 Design, Media & UX
 
 - Figma: Auto Layouts, Variants, Constraints, Wireframes, Prototypes
-- Content Creation: **Photoshop**, **Canva**, **Premiere Pro**
-- Screencasts, video docs, and onboarding tutorials
+- Content Creation: **Photoshop**, **Canva**, **After Effects**
 
 ---
 
@@ -92,10 +91,9 @@
 
 ### 🔧 Tools & Developer Workflow
 
-- **Git**, **GitHub**, CI-integrated workflows, PRs, and feature branching
+- **Git**, **GitHub**, CI-integrated workflows, and feature branching
 - **Linux**: Scripting, cron, logs, uptime checks, service tuning
-- Agile collaboration with async updates and documentation-first flow
-
+  
 ---
 
 ## 🌐 Connect With Me:
