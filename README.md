@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Vyshnav</h1>
-<h3 align="center">Full-Stack MERN Developer | AI Workflow Engineer from India</h3>
+<h3 align="center">Software Engineer | AI Workflow Engineer from India</h3>
 
 <img align="right" alt="Coding" width="400" src="https://www.tekrevol.com/blogs/wp-content/uploads/2022/02/1.gif">
 
@@ -13,29 +13,29 @@
 
 ---
 
-**3+ Years of Experience in Full-Stack Web Development, AI/ML Integration, Automation, and Scalable Hosting Solutions**
+**3+ Years of Experience in Full-Stack Web Development, AI Integration, Automation, and Scalable Hosting Solutions**
 
 ---
 
 ### 🧠 AI & Machine Learning Engineering
 
-- Model fine-tuning: **LLMs (GPT, LLaMA, Mistral)** via **LoRA**, **QLoRA**, **PEFT**
+- Model fine-tuning
 - **Self-hosted LLMs** using **Ollama**, **vLLM** for cost-effective inference
 - Expertise in **Prompt Engineering** 
 - **RAG pipelines** with **LangChain**, **LangGraph**, hybrid semantic search
 - Deployed AI flows via **Transformers**, **OpenAI API**, **HuggingFace Endpoints**
 - **Agentic orchestration**, memory/tool integrations, and live tool routing
 - Vector search using **FAISS**, **Milvus**, **Zilliz**, **ChromaDB**
-- Experience with **NLP**: Q&A bots, summarization, OCR
+- Experience with  Q&A bots, summarization, OCR
 
 ---
 
 ### 💻 Core Tech Expertise
 
-- Front-End: **React.js**, **Next.js** (SSR, SSG), Hooks, Suspense, Context API
-- State Management: **Redux Toolkit**, **React Query**, custom context solutions
-- UI Engineering: Scalable, performant, modern **JavaScript (ES6+)**, **HTML5**, **CSS3**
-- UI Animations: Advanced transitions with **Framer Motion**, **GSAP**
+- **Front-End:** React.js, Next.js (SSR, SSG), Hooks, Context API   
+- **State Management:** Redux Toolkit, React Query, custom context solutions  
+- **UI Engineering:** Scalable, performant, modern JavaScript (ES6+)  
+- **UI Animations:** Advanced transitions with Framer Motion
 
 ---
 
@@ -67,17 +67,17 @@
 ### 🚢 DevOps & Hosting
 
 - Containerization: **Docker** for LLMs and full-stack apps
-- **VPS Ops**: NGINX, SSL, PM2, cronjobs, swap, and memory optimization
+- **VPS Ops**: NGINX, SSL, PM2, cronjobs, swap, and memory optimization, deployment, configuration, security hardening, Docker-based setups, reverse proxy & SSL, monitering , scaling
 - Deployment on **Render**, **Railway**, and custom **VPS**
 - CI/CD: GitHub Actions, webhooks, and automated deployment pipelines
-- Edge AI: Deployments using **LM Studio**, **Ollama**, **Transformers**
+- Edge AI: Deployments using **LM Studio**, **Ollama**
 
 ---
 
 ### 🎨 Design, Media & UX
 
 - Figma: Auto Layouts, Variants, Constraints, Wireframes, Prototypes
-- Content Creation: **Photoshop**, **Canva**, **After Effects**
+- Content Creation: **Photoshop**, **Canva**
 
 ---
 
@@ -92,7 +92,7 @@
 ### 🔧 Tools & Developer Workflow
 
 - **Git**, **GitHub**, CI-integrated workflows, and feature branching
-- **Linux**: Scripting, cron, logs, uptime checks, service tuning
+- **Linux**: Scripting, cron, logs, uptime checks, service tuning ( default os )
   
 ---
 
