@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.ibb.co/cKSS4jDx/Black-Modern-Galaxy-Zoom-Virtual-Background.png" alt="Black-Modern-Galaxy-Zoom-Virtual-Background" border="0">
+  <img src="https://i.postimg.cc/63BH1ryd/Black-Modern-Galaxy-Zoom-Virtual-Background.png" border="0">
 </p>
 
 <h1 align="center">Hi 👋, I'm Vyshnav</h1>
