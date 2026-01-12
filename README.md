@@ -17,7 +17,7 @@
 
 ---
 
-### 🧠 AI & Machine Learning Engineering
+### 🧠 AI Engineering
 
 - Model fine-tuning
 - **Self-hosted LLMs** using **Ollama**, **vLLM** for cost-effective inference
