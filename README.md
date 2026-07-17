@@ -56,6 +56,16 @@
 
 ---
 
+### 🧪 Software Testing & QA Automation
+
+- **Playwright** for end-to-end (E2E) testing across Chromium, Firefox, and WebKit
+- Cross-browser and cross-platform automated testing
+- UI automation using robust locators and Page Object Model (POM)
+- API testing and validation with Playwright
+- Mobile browser emulation and responsive testing
+
+---
+
 ### ⚙️ Workflow Automation & No-Code Integration
 
 - Tools: **n8n**, **Zapier**, **Make (Integromat)**
